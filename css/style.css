@@ -17,6 +17,7 @@ body
 .menu-items{
     font-size: 14px;
     line-height: 100%;
+    font-weight: 500;
 }
 
 .menu-item:hover, .menu-item:focus
@@ -31,6 +32,8 @@ body
     font-size: 14px;
     line-height: 100%;
     font-weight: 500;
+    color: rgba(117, 117, 117, 1);
+
 }
 
 .contactinfo-header:hover, .contactinfo-header:focus
@@ -40,8 +43,8 @@ body
 
 .contactinfo-footer
 {
-    font-size: 14px;
-    line-height: 146%;
+    color: rgba(117, 117, 117, 1);
+
 
 }
 .submenu
@@ -54,11 +57,94 @@ body
 .submenu-item
 {
     display:inline;
+
+}
+
+.submenu-button
+{
+    font-weight: 500;
 }
 
 .submenu-button:hover, .submenu-button:focus
 {
     color: rgba(33, 150, 243, 1);
+
+}
+
+.banner-text
+{
+    font-size: 44px;
+    line-height: 116%;
+}
+
+.order-now
+{
+    font-size: 16px;
+    line-height: 160%;
+}
+
+.aboutus-headline
+{
+    font-size: 14px;
+    line-height: 100%;
+}
+
+.aboutus-text
+{
+    font-size: 14px;
+    line-height: 146%;
+    color: rgba(117, 117, 117, 1);
+}
+
+.headline
+{
+    font-size: 36px;
+   line-height: 100%;
+}
+
+.name
+{
+    font-size: 16px;
+    line-height: 100%;
+}
+
+.position
+{
+    font-size: 16px;
+    line-height: 100%;
+    color: rgba(117, 117, 117, 1);
+
+}
+
+.bottom
+{
+    background-color: rgba(47, 48, 58, 1);
+    ;
+    font-size: 14px;
+    line-height: 146%;
+}
+
+.webstudio-footer
+{
+    font-size: 26px;
+}
+
+.projectname
+{
+    font-size: 18px;
+    line-height: 171%;
+}
+
+.project-category
+{
+    font-size: 16px;
+    line-height: 160%;
+    color: rgba(117, 117, 117, 1);
+
 }
 
 
+.addressinfo
+{
+    color: rgba(255, 255, 255, 1);
+}
