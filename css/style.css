@@ -5,30 +5,45 @@ body
 
 }
 
-.top
-{
-    width: 1600px;
-    height: 80px;
-    display: flex;
-    flex-direction: row;
-
-}
-
 .webstudio
 {
     font-size: 26px;
   
 }
 
-.wrapper
-{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
+.menu-items{
+    font-size: 14px;
 }
 
-.banner
+.menu-item:hover
 {
-    background-color: #2F303A;
-    
+   color: #2196F3;
+
+}
+
+.menu-item:focus
+{
+    color: #2196F3;
+}
+
+.submenu
+{
+    font-size: 16px;
+    line-height: 26px;
+
+}
+
+.submenu-item
+{
+    display:inline;
+}
+
+.submenu-button:hover
+{
+    color: #2196F3;
+}
+
+.submenu-button:focus
+{
+    color: #2196F3;
 }
