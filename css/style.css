@@ -2,30 +2,48 @@ body
 {
     font-family: "Roboto", sans-serif;
     background: #ffffff;
+    color: rgba(33, 33, 33, 1);
+    ;
 
 }
 
 .webstudio
 {
     font-size: 26px;
+    line-height: 100%;
   
 }
 
 .menu-items{
     font-size: 14px;
+    line-height: 100%;
 }
 
-.menu-item:hover
+.menu-item:hover, .menu-item:focus
 {
-   color: #2196F3;
+   color: rgba(33, 150, 243, 1);
+   ;
 
 }
 
-.menu-item:focus
+.contactinfo-header
 {
-    color: #2196F3;
+    font-size: 14px;
+    line-height: 100%;
+    font-weight: 500;
 }
 
+.contactinfo-header:hover, .contactinfo-header:focus
+{
+    color: rgba(33, 150, 243, 1);
+}
+
+.contactinfo-footer
+{
+    font-size: 14px;
+    line-height: 146%;
+
+}
 .submenu
 {
     font-size: 16px;
@@ -38,12 +56,9 @@ body
     display:inline;
 }
 
-.submenu-button:hover
+.submenu-button:hover, .submenu-button:focus
 {
-    color: #2196F3;
+    color: rgba(33, 150, 243, 1);
 }
 
-.submenu-button:focus
-{
-    color: #2196F3;
-}
+
