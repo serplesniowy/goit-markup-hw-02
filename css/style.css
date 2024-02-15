@@ -1,0 +1,10 @@
+body{
+    font-family: Roboto, sans-serif;
+    color: #2E2F42;
+
+}
+
+.contact-list > a:hover {
+    color:#404BBF;
+
+}
