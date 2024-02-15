@@ -4,7 +4,29 @@ body{
 
 }
 
-.contact-list > a:hover {
-    color:#404BBF;
+.contact-link:hover {
+    color: #404BBF;
+    ;
+
+}
+
+.contact-info{
+    color: #434455;
+
+}
+
+.contact-info:hover{
+    color: #404BBF;
+
+}
+
+.order-service-button{
+    background-color:#4D5AE5;
+    cursor:pointer;
+
+}
+
+.order-service-button:hover{
+    background-color:#404BBF;
 
 }
