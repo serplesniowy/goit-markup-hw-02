@@ -1,1 +1,1 @@
-https://serplesniowy.github.io/goit-markup-hw-01/
+https://serplesniowy.github.io/goit-markup-hw-02/
