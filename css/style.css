@@ -1,21 +1,32 @@
 body{
     font-family: Roboto, sans-serif;
     color: #2E2F42;
+    line-height: 1.33;
 
 }
 
-.contact-link:hover {
+.logo{
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.contact-link{
+    font-size:16px;
+    font-weight: 500;
+}
+.contact-link:hover, .contact-link:focus, .contact-link:active{
     color: #404BBF;
-    ;
 
 }
 
 .contact-info{
     color: #434455;
+    font-size:16px;
 
 }
 
-.contact-info:hover{
+.contact-info:hover, .contact-info:focus, .contact-info:active {
     color: #404BBF;
 
 }
@@ -26,7 +37,40 @@ body{
 
 }
 
-.order-service-button:hover{
+.order-service-button:hover, .order-service-button:focus{
     background-color:#404BBF;
 
+}
+
+.header1{
+    font-size: 56px;
+    font-weight:700;
+}
+
+.our_values{
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.values-text{
+    font-size: 16px;
+    color: #434455;
+}
+
+.about-us{
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.footer-text{
+    font-size: 16px;
+    color:#F4F4FD;
+}
+
+.order-service{
+    background-color: #2E2F42;
+}
+
+footer{
+    background-color: #2E2F42;
 }
