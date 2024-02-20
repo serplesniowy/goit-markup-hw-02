@@ -10,15 +10,29 @@ body{
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    line-height: 1.17;
+}
+
+.logo2{
+    color:#2E2F42
 }
 
 .contact-link{
     font-size:16px;
     font-weight: 500;
+    color:#2E2F42;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .contact-link:hover, .contact-link:focus, .contact-link:active{
     color: #404BBF;
 
+}
+
+.info{
+    font-style: normal;
 }
 
 .contact-info{
